@@ -3,13 +3,13 @@
 
 ## Project Overview
 
-This project aims at;
+This project aims at:
 
-* Identifying potential risks of aircraft.
+1. Identifying potential risks of aircraft.
 
-* Determining aircraft with lowest risk for a company.
+2. Determining aircraft with lowest risk for a company.
 
-* Giving insights on purchasing and operating commercial and private enterprises, for a company aspiring to expand into the aviation industry.
+3. Giving insights on purchasing and operating commercial and private enterprises, for a company aspiring to expand into the aviation industry.
 
 
 ## Business Understanding
