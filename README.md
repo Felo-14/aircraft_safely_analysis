@@ -60,13 +60,13 @@ Here are the key recommendations for the company based on the analysis made:
 
 * The company should consider purchasing aircrafts manufactured by Embraer because they were not involved in as many fatal injuries in accidents compared to other aircraft makes.
 
-Additionally, they are fuel-efficient, versatile, and well-suited for regional and short-haul operations.
+   Additionally, they are fuel-efficient, versatile, and well-suited for regional and short-haul operations.
 
 * The company should also consider purchasing aircrafts manufactured by Airbus as they did not suffered fewer accidents leading to fatal injuries compared to other aircraft makes.
 
-Moreover, they are renowned for reliability, fuel-efficiency, and short-haul commercial flights.
+   Moreover, they are renowned for reliability, fuel-efficiency, and short-haul commercial flights.
 
-* The company should consider purchasing twin-engine or quad-engine aircraft as they did not suffer as many accidents as single-engine aircraft, and they are commonly used today.
+* The company should consider purchasing twin-engine or quad-engine aircraft as they did not suffer as   many accidents as single-engine aircraft, and they are commonly used today.
 
 * The twin-engine aircraft is the most appropriate pick as advances in there designs have reduced the demand for quad-engine aircraft due to their better fuel efficiency.
 
