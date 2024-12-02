@@ -6,7 +6,7 @@ Now you will put your new skills to use with a large end-of-Phase project!
 
 In this project description, we will cover:
 
-# * [***Getting Started:***](#getting-started) guidance for how to begin your first project
+* [***Getting Started:***](#getting-started) guidance for how to begin your first project
 
 ## Project Overview
 
