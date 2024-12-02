@@ -1,4 +1,4 @@
-# Phase 1 Project Description
+# Aircraft Safety Analysis
 
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
 
@@ -6,41 +6,48 @@ Now you will put your new skills to use with a large end-of-Phase project!
 
 In this project description, we will cover:
 
-* [***Project Overview:***](#project-overview) the project goal, audience, and dataset
-* [***Deliverables:***](#deliverables) the specific items you are required to produce for this project
-* [***Grading:***](#grading) how your project will be scored
 * [***Getting Started:***](#getting-started) guidance for how to begin your first project
 
 ## Project Overview
 
-For this project, you will use data cleaning, imputation, analysis, and visualization to generate insights for a business stakeholder.
+This project aims at;
 
-### Business Problem
+* Identifying potential risks of aircraft.
 
-Your company is expanding in to new industries to diversify its portfolio. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprises, but do not know anything about the potential risks of aircraft. You are charged with determining which aircraft are the lowest risk for the company to start this new business endeavor. You must then translate your findings into actionable insights that the head of the new aviation division can use to help decide which aircraft to purchase.
+* Determining aircraft with lowest risk for a company.
 
-### The Data
+* Giving insights on purchasing and operating commercial and private enterprises, for a company aspiring to expand into the aviation industry.
 
-In the `data` folder is a [dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) from the National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
 
-It is up to you to decide what data to use, how to deal with missing values, how to aggregate the data, and how to visualize it in an interactive dashboard.
+### Business Understanding
 
-### Key Points
+Our company seeks to expand into the aviation industry, and I am tasked to ensure a successful entry by identifying the lowest-risk aircraft options for both commercial and private operations.
+ 
+I need to delve into and analyze the potential risks associated with aircraft ownership and operation, and provide actionable insights to guide the head of the new aviation division in making informed decisions about aircraft purchases.
 
-* **Your analysis should yield three concrete business recommendations.** The key idea behind dealing with missing values, aggregating and visualizaing data is to help your organization make data driven decisions. You will relate your findings to business intelligence by making recommendations for how the business should move forward with the new aviation opportunity.
 
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of the aviation division) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
+### Data Understanding
 
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
+The data being used is from the National Transportation Safety Board (NTSB) aviation accident database.
 
-## Deliverables
+In the `data` folder is a [dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses). It contains information from 1962 to 2023 about civil aviation accidents within the United States, its territories and possessions, and in international waters. 
 
-There are three deliverables for this project:
+The key variable used include:
+Make (Aircraft)
+Total Fatal Injuries
+Number of Engines
 
-* A **non-technical presentation**
-* A **Jupyter Notebook**
-* A **GitHub repository**
-* An **Interactive Dashboard**
+### Data Analysis
+
+The visualization shows the number of fatal injuries suffered per aircraft make
+![Visualization for Fatal Injuries By Make](/images/Fatal%20Injuries%20by%20Make.png)
+
+The visualization shows the number of fatal injuries suffered per year
+![Visualization for Fatal Injuries per Year](/images/Fata%20Injuries%20Per%20Year.png)
+
+The visualization shows the number of fatal injuries suffered per the number of engines in an aircraft
+![Visualization for Fatal Injuries By Number of Engines](/images/Fatal%20Injuries%20by%20Number%20of%20Engines.png)
+
 
 ### Non-Technical Presentation
 
@@ -153,7 +160,18 @@ For further reading on creating professional notebooks and `README`s, check out 
 The interactive dashboard is a collection of views that allows the viewer to change the views to understand different features in the data. This dashboard will be linked within your GitHub repository README.md file so that users can explore your analysis. Make sure you follow visual best practices that you have learned in this course. Below is an example of what you could produce for this assignment.
 ![tableau dashboard for aviation accidents](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v3/master/example_dashboard.png)
 
-## Grading
+### Recommendations
+
+Here are the key recommendations for the company based on the analysis made:
+
+* The company should consider purchasing aircrafts manufactured by Embraer because they were not involved in as many fatal injuries in accidents compared to other aircraft makes.Additionally, they are fuel-efficient, versatile, and well-suited for regional and short-haul operations.
+
+* The company should also consider purchasing aircrafts manufactured by Airbus as they did not suffered fewer accidents leading to fatal injuries compared to other aircraft makes.
+Moreover, they are renowned for reliability, fuel-efficiency, and short-haul commercial flights.
+
+* The company should consider purchasing twin-engine or quad-engine aircraft as they did not suffer as many accidents as single-engine aircraft, and they are commonly used today.
+
+* The company should also consider selecting aircraft models with proven reliability and strong manufacturer support.
 
 ***To pass this project, you must pass each project rubric objective.*** The project rubric objectives for Phase 1 are:
 
