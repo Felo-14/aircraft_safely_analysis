@@ -18,6 +18,13 @@ Our company seeks to expand into the aviation industry, and I am tasked to ensur
  
 I need to delve into and analyze the potential risks associated with aircraft ownership and operation, and provide actionable insights to guide the head of the new aviation division in making informed decisions about aircraft purchases.
 
+Among the important questions posed throughout the analysis were:
+
+1. For each aircraft make, how many injuries were sustained?
+
+2. What is the overall trend of the annual number of fatalities?
+
+3. Does the number of engines in an aircraft correlate with the number of fatalities?
 
 ## Data Understanding
 
@@ -32,13 +39,13 @@ In the `data` folder is a [dataset](https://www.kaggle.com/datasets/khsamaha/avi
 
 ## Data Analysis
 
-The visualization shows the number of fatal injuries suffered per aircraft make
+**The visualization shows the number of fatal injuries suffered per aircraft make**
 ![Visualization for Fatal Injuries By Make](/images/Fatal%20Injuries%20by%20Make.png)
 
-The visualization shows the number of fatal injuries suffered per year
+**The visualization shows the number of fatal injuries suffered per year**
 ![Visualization for Fatal Injuries per Year](/images/Fata%20Injuries%20Per%20Year.png)
 
-The visualization shows the number of fatal injuries suffered per the number of engines in an aircraft
+*The visualization shows the number of fatal injuries suffered per the number of engines in an aircraft*
 ![Visualization for Fatal Injuries By Number of Engines](/images/Fatal%20Injuries%20by%20Number%20of%20Engines.png)
 
 
