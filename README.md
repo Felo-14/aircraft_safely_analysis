@@ -48,38 +48,27 @@ The visualization shows the number of fatal injuries suffered per year
 The visualization shows the number of fatal injuries suffered per the number of engines in an aircraft
 ![Visualization for Fatal Injuries By Number of Engines](/images/Fatal%20Injuries%20by%20Number%20of%20Engines.png)
 
-A professional GitHub repository has:
-
-1. `README.md`
-    * A file called `README.md` at the root of the repository directory, written in Markdown; this is what is rendered when someone visits the link to your repository in the browser
-    * This file contains these sections:
-       * Overview
-       * Business Understanding
-          * Include stakeholder and key business questions
-       * Data Understanding and Analysis
-          * Source of data
-          * Description of data
-          * Three visualizations (the same visualizations presented in the slides and notebook)
-       * Conclusion
-          * Summary of conclusions including three relevant findings
 
 ### Interactive Dashboard
 
-The interactive dashboard is a collection of views that allows the viewer to change the views to understand different features in the data. This dashboard will be linked within your GitHub repository README.md file so that users can explore your analysis. Make sure you follow visual best practices that you have learned in this course. Below is an example of what you could produce for this assignment.
-![tableau dashboard for aviation accidents](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v3/master/example_dashboard.png)
+Below is an interactive dashboard which is helpful for futher exloration of the analysis:
+![tableau dashboard for aircraft safety analysis]()
 
 ### Recommendations
 
 Here are the key recommendations for the company based on the analysis made:
 
-* The company should consider purchasing aircrafts manufactured by Embraer because they were not involved in as many fatal injuries in accidents compared to other aircraft makes.Additionally, they are fuel-efficient, versatile, and well-suited for regional and short-haul operations.
+* The company should consider purchasing aircrafts manufactured by Embraer because they were not involved in as many fatal injuries in accidents compared to other aircraft makes.
+
+Additionally, they are fuel-efficient, versatile, and well-suited for regional and short-haul operations.
 
 * The company should also consider purchasing aircrafts manufactured by Airbus as they did not suffered fewer accidents leading to fatal injuries compared to other aircraft makes.
-Moreover, they are renowned for reliability, fuel-efficiency, and short-haul commercial flights.
+
+Moreover, they are renowned for reliability, fuel-efficiency, and short-haul commercial flights.
 
 * The company should consider purchasing twin-engine or quad-engine aircraft as they did not suffer as many accidents as single-engine aircraft, and they are commonly used today.
 
-* The company should also consider selecting aircraft models with proven reliability and strong manufacturer support.
+* The twin-engine aircraft is the most appropriate pick as advances in there designs have reduced the demand for quad-engine aircraft due to their better fuel efficiency.
 
-## Summary
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
+## Conclusion
+Ultimately, the comprehensive analysis conducted has given our company valuable insights as we enter the aviation sector. Before our entry into the aviation field, it is crucial to consider the above recommendations in addition to other factors which can lead future imporvements.
