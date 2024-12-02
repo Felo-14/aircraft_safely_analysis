@@ -1,12 +1,6 @@
 # Aircraft Safety Analysis
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
 
-Now you will put your new skills to use with a large end-of-Phase project!
-
-In this project description, we will cover:
-
-* [***Getting Started:***](#getting-started) guidance for how to begin your first project
 
 ## Project Overview
 
@@ -68,7 +62,7 @@ Here are the key recommendations for the company based on the analysis made:
 
 * The company should consider purchasing twin-engine or quad-engine aircraft as they did not suffer as many accidents as single-engine aircraft, and they are commonly used today.
 
-* The twin-engine aircraft is the most appropriate pick as advances in there designs have reduced the demand for quad-engine aircraft due to their better fuel efficiency.
+* The twin-engine aircraft is the most appropriate pick as advances in their designs have reduced the demand for quad-engine aircraft due to their better fuel efficiency.
 
 ## Conclusion
 Ultimately, the comprehensive analysis conducted has given our company valuable insights as we enter the aviation sector. Before our entry into the aviation field, it is crucial to consider the above recommendations in addition to other factors which can lead future imporvements.
