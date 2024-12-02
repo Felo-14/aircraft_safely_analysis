@@ -1,7 +1,6 @@
 # Aircraft Safety Analysis
 
 
-
 ## Project Overview
 
 This project aims at;
@@ -13,25 +12,25 @@ This project aims at;
 * Giving insights on purchasing and operating commercial and private enterprises, for a company aspiring to expand into the aviation industry.
 
 
-### Business Understanding
+## Business Understanding
 
 Our company seeks to expand into the aviation industry, and I am tasked to ensure a successful entry by identifying the lowest-risk aircraft options for both commercial and private operations.
  
 I need to delve into and analyze the potential risks associated with aircraft ownership and operation, and provide actionable insights to guide the head of the new aviation division in making informed decisions about aircraft purchases.
 
 
-### Data Understanding
+## Data Understanding
 
 The data being used is from the National Transportation Safety Board (NTSB) aviation accident database.
 
 In the `data` folder is a [dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses), containing information from 1962 to 2023 about civil aviation accidents within the United States, its territories and possessions, and in international waters. 
 
-The key variable used include:
+**The key variable used include:**
 1. Make (Aircraft)
 2. Total Fatal Injuries
 3. Number of Engines
 
-### Data Analysis
+## Data Analysis
 
 The visualization shows the number of fatal injuries suffered per aircraft make
 ![Visualization for Fatal Injuries By Make](/images/Fatal%20Injuries%20by%20Make.png)
@@ -43,12 +42,12 @@ The visualization shows the number of fatal injuries suffered per the number of 
 ![Visualization for Fatal Injuries By Number of Engines](/images/Fatal%20Injuries%20by%20Number%20of%20Engines.png)
 
 
-### Interactive Dashboard
+## Interactive Dashboard
 
 Below is an interactive dashboard which is helpful for futher exloration of the analysis:
 ![tableau dashboard for aircraft safety analysis]()
 
-### Recommendations
+## Recommendations
 
 Here are the key recommendations for the company based on the analysis made:
 
@@ -65,4 +64,5 @@ Here are the key recommendations for the company based on the analysis made:
 * The twin-engine aircraft is the most appropriate pick as advances in their designs have reduced the demand for quad-engine aircraft due to their better fuel efficiency.
 
 ## Conclusion
+
 Ultimately, the comprehensive analysis conducted has given our company valuable insights as we enter the aviation sector. Before our entry into the aviation field, it is crucial to consider the above recommendations in addition to other factors which can lead future imporvements.
