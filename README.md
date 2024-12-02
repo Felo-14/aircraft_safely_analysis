@@ -52,7 +52,7 @@ In the `data` folder is a [dataset](https://www.kaggle.com/datasets/khsamaha/avi
 ## Interactive Dashboard
 
 Below is an interactive dashboard which is helpful for futher exloration of the analysis:
-![tableau dashboard for aircraft safety analysis](https://public.tableau.com/app/profile/felix.mwendwa/viz/AviationSafetyAnalysis_17331591046710/AviationSafetyAnalysisDashboard2?publish=yes)
+(https://public.tableau.com/app/profile/felix.mwendwa/viz/AviationSafetyAnalysis_17331591046710/AviationSafetyAnalysisDashboard2?publish=yes)
 
 ## Recommendations
 
