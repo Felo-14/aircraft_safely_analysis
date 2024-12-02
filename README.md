@@ -39,13 +39,13 @@ In the `data` folder is a [dataset](https://www.kaggle.com/datasets/khsamaha/avi
 
 ## Data Analysis
 
-**The visualization shows the number of fatal injuries suffered per aircraft make**
+***The visualization shows the number of fatal injuries suffered per aircraft make***
 ![Visualization for Fatal Injuries By Make](/images/Fatal%20Injuries%20by%20Make.png)
 
-**The visualization shows the number of fatal injuries suffered per year**
+***The visualization shows the number of fatal injuries suffered per year***
 ![Visualization for Fatal Injuries per Year](/images/Fata%20Injuries%20Per%20Year.png)
 
-*The visualization shows the number of fatal injuries suffered per the number of engines in an aircraft*
+***The visualization shows the number of fatal injuries suffered per the number of engines in an aircraft***
 ![Visualization for Fatal Injuries By Number of Engines](/images/Fatal%20Injuries%20by%20Number%20of%20Engines.png)
 
 
