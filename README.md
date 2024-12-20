@@ -43,7 +43,7 @@ In the `data` folder is a [dataset](https://www.kaggle.com/datasets/khsamaha/avi
 ![Visualization for Fatal Injuries By Make](/images/Fatal%20Injuries%20by%20Make.png)
 
 **The visualization shows the number of fatal injuries suffered per year**
-![Visualization for Fatal Injuries per Year](/images/Fata%20Injuries%20Per%20Year.png)
+![Visualization for Fatal Injuries per Year](/images/Fatal%20Injuries%20Per%20Year.png)
 
 **The visualization shows the number of fatal injuries suffered per the number of engines in an aircraft**
 ![Visualization for Fatal Injuries By Number of Engines](/images/Fatal%20Injuries%20by%20Number%20of%20Engines.png)
@@ -72,4 +72,4 @@ Here are the key recommendations for the company based on the analysis made:
 
 ## Conclusion
 
-Ultimately, the comprehensive analysis conducted has given our company valuable insights as we enter the aviation sector. Before our entry into the aviation field, it is crucial to consider the above recommendations in addition to other factors which can lead future imporvements.
+Ultimately, the analysis conducted has given our company valuable insights as we enter the aviation sector. Before our entry into the aviation field, it is crucial to consider the above recommendations in addition to other factors which can lead future imporvements.
