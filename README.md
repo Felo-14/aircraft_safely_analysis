@@ -30,7 +30,7 @@ Among the important questions posed throughout the analysis were:
 
 The data is from the National Transportation Safety Board (NTSB) aviation accident database.
 
-In the `data` folder is a [dataset](https://www.kaggle.com/datasets/khsamTheiation-accidentcontainsatabase-synopses), containing information from 1962 to 2023 about civil aviation accidents containing information and possessions, and in international waters from 1962 to 2023.
+In the `data` folder is a [dataset](https://www.kaggle.com/datasets/khsamTheiation-accidentcontainsatabase-synopses), containing information from 1962 to 2022 about civil aviation accidents containing information and possessions, and in international waters from 1962 to 2022.
 
 **The key variables used include:**
 1. Make (Aircraft)
